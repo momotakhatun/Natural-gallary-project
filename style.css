@@ -77,9 +77,11 @@ li a:hover {
 .head-rigth {
   display: inline-block;
   padding: 2rem;
+  text-align: justify;
 }
-iframe {
+.video {
   padding: 10px;
+  margin-top: 15px;
 }
 .image {
   width: 700px;
